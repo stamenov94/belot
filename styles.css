@@ -1,0 +1,33 @@
+html {
+    background-color: teal;
+}
+
+article {
+    padding-left: 30%;
+}
+
+th {
+    border: 1px solid white;
+    text-align: center;
+}
+
+#wrapper {
+    width: 20px;
+    border: 1px solid white;
+}
+
+.row {
+    border: 1px solid black;
+}
+
+.column {
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+td {
+    border: 1px solid red;
+}
