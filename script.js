@@ -12,7 +12,7 @@ function addItem() {
 
     var row = tableResult.insertRow(-1); //inserts in the last line
 
-    var resultTeamOne = row.insertCell(0); // cell 1
+    var resultTeamOne = row.insertCell(0); // result cell 1
     var resultTeamTwo = row.insertCell(1); //result cell 2
 
     if (tableResult.rows.length < 2) {
